@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xx\ nn
+comment0.target=SeriesSum(int,\ int)
+comment1.params=m
+comment1.target=double\ findfact(int)
+comment2.params=x\ y
+comment2.target=double\ findpower(int,\ int)
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
